@@ -12,10 +12,10 @@ Important libraries that I used in the project:
 # Screenshots
 
 <div style="display: block">
-<img width="50%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr1.png">
-<img width="50%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr2.png">
+<img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr1.png">
+<img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr2.png">
 </div>
 <div style="display: block">
-<img width="50%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr3.png">
-<img width="50%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr4.png">
+<img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr3.png">
+<img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr4.png">
 </div>
