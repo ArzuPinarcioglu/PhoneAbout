@@ -15,6 +15,8 @@ Important libraries that I used in the project:
 <img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr1.png">
 <img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr2.png">
 </div>
+<br>
+<br>
 <div style="display: block">
 <img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr3.png">
 <img width="40%" alt="portfolio_view" style="display: inline-block;" src="https://github.com/ArzuPinarcioglu/PhoneAbout/blob/main/screenshots/scr4.png">
